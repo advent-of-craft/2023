@@ -25,3 +25,8 @@ We hope you enjoy the ride.
 Happy Crafting!
 
 ![Advent Of Craft 2023](img/advent-of-craft.png)
+
+## Join us on Discord
+To facilitate the communication around challenges you can join us on `Discord` by simply clicking [here](https://discord.gg/E5Z9s9UKTS).
+
+![Discord Advent Of Craft](img/discord.png)
