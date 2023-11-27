@@ -19,6 +19,8 @@ Each day, `you will be taken in a small aspect of software craftsmanship`. Each 
 
 From refactoring to testing to reviewing, all aspects are going to be explored.
 
+The objective of this journey is to learn new crafts and share with your peers, not to get lost in impossible algorithm exercises or to finish as fast as you can using chatGPT.
+
 A repository is available and each day a topic will appear with a proposed solution for the day before.
 
 We hope you enjoy the ride. 
