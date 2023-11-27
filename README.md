@@ -12,7 +12,7 @@ Heck, you probably still are.
 
 We feel you, and in the spirit of Christmas, you deserve a gift.
 
-We have the privilege this year, in collaboration with Yoan, to bring to you the Advent of Craft. 
+We have the privilege this year to bring to you the Advent of Craft. 
 This is a journey into software craftsmanship.
 
 Each day, `you will be taken in a small aspect of software craftsmanship`. Each day, you will have `an exercise with a topic` to look at in a small bite approach and hopefully you will `learn something`.
