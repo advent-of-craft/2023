@@ -36,3 +36,8 @@ To facilitate the communication around challenges you can join us on `Discord` b
 ## Instructions
 [Here are the instructions for the journey](d-1_instructions_post.md)
 
+## Challenges - 2023
+Here are the different challenges :
+
+- [Day 1: Make your production code easier to understand.](exercise/day01/docs/challenge.md)
+
