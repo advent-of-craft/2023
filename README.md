@@ -32,3 +32,7 @@ Happy Crafting!
 To facilitate the communication around challenges you can join us on `Discord` by simply clicking [here](https://discord.gg/E5Z9s9UKTS).
 
 ![Discord Advent Of Craft](img/discord.png)
+
+## Instructions
+[Here are the instructions for the journey](d-1_instructions_post.md)
+
