@@ -41,3 +41,7 @@ Here are the different challenges :
 
 - [Day 1: Make your production code easier to understand.](exercise/day01/docs/challenge.md)
 
+### Solutions
+A solution proposal will be published here every day during the `Advent Of Craft` containing `the code` and a `step by step` guide.
+
+- [Day 1: Make your production code easier to understand.](solution/day01/docs/step-by-step.md)
