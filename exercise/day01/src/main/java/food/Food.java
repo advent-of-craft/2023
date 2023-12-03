@@ -8,12 +8,11 @@ public record Food(LocalDate expirationDate,
                    Boolean approvedForConsumption,
                    UUID inspectorId) {
     public boolean isEdible(Supplier<LocalDate> now) {
-        if (this.expirationDate.isAfter(now.get()) &&
-                this.approvedForConsumption &&
-                this.inspectorId != null) {
-            return true;
-        } else {
-            return false;
-        }
+
+        if (inspectorId == null) return false;
+
+        boolean isNotExpired = expirationDate.isAfter(now.get());
+
+        return isNotExpired && approvedForConsumption;
     }
 }
