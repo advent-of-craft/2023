@@ -46,3 +46,4 @@ Here are the different challenges :
 A solution proposal will be published here every day during the `Advent Of Craft` containing `the code` and a `step by step` guide.
 
 - [Day 1: Make your production code easier to understand.](solution/day01/docs/step-by-step.md)
+- [Day 2: One level of indentation.](solution/day02/docs/step-by-step.md)
