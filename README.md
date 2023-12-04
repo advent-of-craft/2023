@@ -50,3 +50,4 @@ A solution proposal will be published here every day during the `Advent Of Craft
 - [Day 1: Make your production code easier to understand.](solution/day01/docs/step-by-step.md)
 - [Day 2: One level of indentation.](solution/day02/docs/step-by-step.md)
 - [Day 3: One dot per line.](solution/day03/docs/step-by-step.md)
+- [Day 4: Identify the behavior under test and rewrite the tests.](solution/day04/docs/step-by-step.md)
