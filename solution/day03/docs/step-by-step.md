@@ -53,7 +53,8 @@ private static int youngestPetAgeOfThePerson(Person person) {
 }
 ```
 
-- We
+- We could go further by putting the behaviors closer to the business logic to respect the [law of Demeter](https://medium.com/vattenfall-tech/the-law-of-demeter-by-example-fd7adbf0c324) 
+  - Moving the `youngestPetAgeOfThePerson` method in `Person` for example
 
 ### Vavr alternative
 By using, alternative `collections` the code could be a little bit less verbose...
