@@ -43,6 +43,7 @@ Here are the different challenges :
 - [Day 2: One level of indentation.](exercise/day02/docs/challenge.md)
 - [Day 3: One dot per line.](exercise/day03/docs/challenge.md)
 - [Day 4: Identify the behavior under test and rewrite the tests.](exercise/day04/docs/challenge.md)
+- [Day 5: No "for" loop authorized.](exercise/day05/docs/challenge.md)
 
 ### Solutions
 A solution proposal will be published here every day during the `Advent Of Craft` containing `the code` and a `step by step` guide.
