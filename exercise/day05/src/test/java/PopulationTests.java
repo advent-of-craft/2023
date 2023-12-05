@@ -42,7 +42,7 @@ class PopulationTests {
     void peopleWithTheirPets() {
         final var response = formatPopulation();
 
-        assertThat(response.toString())
+        assertThat(response)
                 .hasToString("Peter Griffin who owns : Tabby " + lineSeparator() +
                         "Stewie Griffin who owns : Dolly Brian " + lineSeparator() +
                         "Joe Swanson who owns : Spike " + lineSeparator() +
