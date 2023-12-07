@@ -54,3 +54,4 @@ A solution proposal will be published here every day during the `Advent Of Craft
 - [Day 3: One dot per line.](solution/day03/docs/step-by-step.md)
 - [Day 4: Identify the behavior under test and rewrite the tests.](solution/day04/docs/step-by-step.md)
 - [Day 5: No "for" loop authorized.](solution/day05/docs/step-by-step.md)
+- [Day 6: Parameterize your tests.](solution/day06/docs/step-by-step.md)
