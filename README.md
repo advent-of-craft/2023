@@ -48,6 +48,7 @@ Here are the different challenges :
 - [Day 7: Simplify the run method by extracting the right behavior.](exercise/day07/docs/challenge.md)
 - [Day 8: Using TDD rules, write a password validation program.](exercise/day08/docs/challenge.md)
 - [Day 9: Fix the code.](exercise/day09/docs/challenge.md)
+- [Day 10: Dot not use "if" statement.](exercise/day10/docs/challenge.md)
 
 ### Solutions
 A solution proposal will be published here every day during the `Advent Of Craft` containing `the code` and a `step by step` guide.
