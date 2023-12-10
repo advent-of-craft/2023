@@ -60,3 +60,4 @@ A solution proposal will be published here every day during the `Advent Of Craft
 - [Day 6: Parameterize your tests.](solution/day06/docs/step-by-step.md)
 - [Day 7: Simplify the run method by extracting the right behavior.](solution/day07/docs/step-by-step.md)
 - [Day 8: Using TDD rules, write a password validation program.](solution/day08/docs/step-by-step.md)
+- [Day 9: Fix the code.](solution/day09/docs/step-by-step.md)
