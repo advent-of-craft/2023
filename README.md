@@ -50,6 +50,7 @@ Here are the different challenges :
 - [Day 9: Fix the code.](exercise/day09/docs/challenge.md)
 - [Day 10: Dot not use "if" statement.](exercise/day10/docs/challenge.md)
 - [Day 11: Gather a dependency freshness metric.](exercise/day11/docs/challenge.md)
+- [Day 12: Make your code open for extension.](exercise/day12/docs/challenge.md)
 
 ### Solutions
 A solution proposal will be published here every day during the `Advent Of Craft` containing `the code` and a `step by step` guide.
