@@ -64,3 +64,4 @@ A solution proposal will be published here every day during the `Advent Of Craft
 - [Day 8: Using TDD rules, write a password validation program.](solution/day08/docs/step-by-step.md)
 - [Day 9: Fix the code.](solution/day09/docs/step-by-step.md)
 - [Day 10: Dot not use "if" statement.](solution/day10/docs/step-by-step.md)
+- [Day 11: Gather a dependency freshness metric.](solution/day11/docs/step-by-step.md)
