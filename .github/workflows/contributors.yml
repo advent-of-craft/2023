@@ -11,7 +11,7 @@ jobs:
       with:
         REPO_NAME: ${{github.repository}}
         CONTRIBUTOR: '## Contributors'
-        COLUMN_PER_ROW: ''
+        COLUMN_PER_ROW: '4'
         ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
         IMG_WIDTH: '100'
         FONT_SIZE: '14'
