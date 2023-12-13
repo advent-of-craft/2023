@@ -34,7 +34,7 @@ To facilitate the communication around challenges you can join us on `Discord` b
 ![Discord Advent Of Craft](img/discord.png)
 
 ## Instructions
-[Here are the instructions for the journey](d-1_instructions_post.md)
+[Here are the instructions for the journey](INSTRUCTIONS.md)
 
 ## Challenges - 2023
 Here are the different challenges :
