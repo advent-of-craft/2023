@@ -72,3 +72,22 @@ A solution proposal will be published here every day during the `Advent Of Craft
 - [Day 12: Make your code open for extension.](solution/day12/docs/step-by-step.md)
 
   ## Contributors
+
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/ythirion>
+            <img src=https://avatars.githubusercontent.com/u/20967693?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Yoan Thirion/>
+            <br />
+            <sub style="font-size:14px"><b>Yoan Thirion</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/yanncourtel>
+            <img src=https://avatars.githubusercontent.com/u/75068587?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Yann Courtel/>
+            <br />
+            <sub style="font-size:14px"><b>Yann Courtel</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
