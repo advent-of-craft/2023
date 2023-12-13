@@ -16,3 +16,5 @@ _What is my code trying to achieve?_
 May your crafting journey continue!
 
 - <u>💡HINT:</u> Think of the commonality in your conditions.
+
+![snippet of the day](snippet.png)

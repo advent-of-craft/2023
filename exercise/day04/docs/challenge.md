@@ -16,3 +16,5 @@ _But are they?_
 May your crafting journey be safe!
 
 - <u>💡HINT:</u> Think of what defines a behavior!
+
+![snippet of the day](snippet.png)

@@ -18,3 +18,5 @@ _A code can always be improved._
 May the crafting journey continue!
 
 - <u>💡HINT:</u> Be consistent with your formatting rules!
+
+![snippet of the day](snippet.png)

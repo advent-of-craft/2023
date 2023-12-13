@@ -19,3 +19,5 @@ _Your tests shall never fail..._
 May your crafting journey be smooth!
 
 - <u>💡HINT:</u> Your previous tests can't fail if you are testing a new method.
+
+![snippet of the day](snippet.png)

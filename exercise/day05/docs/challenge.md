@@ -15,3 +15,5 @@ _No loop is better than too many loops._
 May your crafting journey continue!
 
 - <u>💡HINT:</u> IDE + undo can help you.
+
+![snippet of the day](snippet.png)

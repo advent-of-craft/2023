@@ -51,3 +51,5 @@ May your crafting journey bring you new lights!
 
 - <u>💡HINT1:</u> The project is empty, so you'll have to auto-generate your code from a test class.
 - <u>💡HINT2:</u> Start with the easiest behavior to write a test for (Baby Step).
+
+![snippet of the day](snippet.png)

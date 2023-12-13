@@ -14,3 +14,5 @@ _What is the goal of my test?_
 May your crafting journey continue!
 
 - <u>💡HINT:</u> Assess the inputs and assertions.
+
+![snippet of the day](snippet.png)

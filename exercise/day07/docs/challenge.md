@@ -18,3 +18,5 @@ _What is my code trying to achieve?_
 May your crafting journey bring new challenges!
 
 - <u>💡HINT:</u> Use all the techniques you've learned this week.
+
+![snippet of the day](snippet.png)

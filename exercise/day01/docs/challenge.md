@@ -21,3 +21,5 @@ Think about the real value your code should bring.
 May the crafting journey begin!
 
 - <u>💡HINT:</u> Your IDE is your best friend in this journey!
+
+![snippet of the day](snippet.png)

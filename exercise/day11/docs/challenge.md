@@ -17,3 +17,5 @@ _How in the world can I check my dependencies?_
 May your crafting journey bring you to new places!
 
 - <u>💡HINT:</u> Read the ***year documentation.
+
+![snippet of the day](snippet.png)

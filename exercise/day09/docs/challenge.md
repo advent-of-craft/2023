@@ -16,3 +16,5 @@ _How am I going to do that?_
 May your crafting journey be safe!
 
 - <u>💡HINT:</u> Think of what kind of method it is. Command or Query?
+
+![snippet of the day](snippet.png)
