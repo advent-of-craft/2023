@@ -1,3 +1,5 @@
+[![Contributors](https://github.com/advent-of-craft/advent-of-craft/actions/workflows/contributors.yml/badge.svg)](https://github.com/advent-of-craft/advent-of-craft/actions/workflows/contributors.yml)
+
 # Advent Of Craft
 
 Christmas is here!
