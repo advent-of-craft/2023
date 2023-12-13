@@ -71,7 +71,8 @@ A solution proposal will be published here every day during the `Advent Of Craft
 - [Day 11: Gather a dependency freshness metric.](solution/day11/docs/step-by-step.md)
 - [Day 12: Make your code open for extension.](solution/day12/docs/step-by-step.md)
 
-  ## Contributors
+ 
+## Contributors
 
 <table>
 <tr>
