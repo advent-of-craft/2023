@@ -60,6 +60,7 @@ Here are the different challenges :
 - [Day 12: Make your code open for extension.](exercise/day12/docs/challenge.md)
 - [Day 13: Find a way to eliminate the irrelevant, and amplify the essentials of those tests.](exercise/day13/docs/challenge.md)
 - [Day 14: Do not use exceptions anymore.](exercise/day14/docs/challenge.md)
+- [Day 15: Put a code under tests.](exercise/day15/docs/challenge.md)
 
 ### Solutions
 A solution proposal will be published here every day during the `Advent Of Craft` containing `the code` and a `step by step` guide.
