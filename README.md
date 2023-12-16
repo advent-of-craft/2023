@@ -79,7 +79,7 @@ A solution proposal will be published here every day during the `Advent Of Craft
 - [Day 12: Make your code open for extension.](solution/day12/docs/step-by-step.md)
 - [Day 13: Find a way to eliminate the irrelevant, and amplify the essentials of those tests.](solution/day13/docs/step-by-step.md)
 - [Day 14: Do not use exceptions anymore.](solution/day14/docs/step-by-step.md)
-
+- [Day 15: Put a code under tests.](solution/day15/docs/step-by-step.md)
  
 ## Contributors
 
