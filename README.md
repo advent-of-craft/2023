@@ -62,6 +62,7 @@ Here are the different challenges :
 - [Day 14: Do not use exceptions anymore.](exercise/day14/docs/challenge.md)
 - [Day 15: Put a code under tests.](exercise/day15/docs/challenge.md)
 - [Day 16: Make this code immutable.](exercise/day16/docs/challenge.md)
+- [Day 17: Design one test that has the impact of thousands.](exercise/day17/docs/challenge.md)
 
 ### Solutions
 A solution proposal will be published here every day during the `Advent Of Craft` containing `the code` and a `step by step` guide.
