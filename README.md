@@ -83,6 +83,7 @@ A solution proposal will be published here every day during the `Advent Of Craft
 - [Day 14: Do not use exceptions anymore.](solution/day14/docs/step-by-step.md)
 - [Day 15: Put a code under tests.](solution/day15/docs/step-by-step.md)
 - [Day 16: Make this code immutable.](solution/day16/docs/step-by-step.md)
+- [Day 17: Design one test that has the impact of thousands.](solution/day17/docs/step-by-step.md)
  
 ## Contributors
 
