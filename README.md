@@ -87,6 +87,7 @@ A solution proposal will be published here every day during the `Advent Of Craft
 - [Day 16: Make this code immutable.](solution/day16/docs/step-by-step.md)
 - [Day 17: Design one test that has the impact of thousands.](solution/day17/docs/step-by-step.md)
 - [Day 18: Automatically detect Linguistic Anti-Patterns (LAP).](solution/day18/docs/step-by-step.md)
+- [Day 19: Loosing up dead weight.](solution/day19/docs/step-by-step.md)
  
 ## Contributors
 
