@@ -67,6 +67,7 @@ Here are the different challenges :
 - [Day 19: Loosing up dead weight.](exercise/day19/docs/challenge.md)
 - [Day 20: No more exceptions in our domain.](exercise/day20/docs/challenge.md)
 - [Day 21: Refactor the tests and production code to Output-Based tests.](exercise/day21/docs/challenge.md)
+- [Day 22: Design a diamond program using T.D.D and Property-Based Testing.](exercise/day22/docs/challenge.md)
 
 ### Solutions
 A solution proposal will be published here every day during the `Advent Of Craft` containing `the code` and a `step by step` guide.
