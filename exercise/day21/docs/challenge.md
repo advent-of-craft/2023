@@ -11,7 +11,7 @@ Today's exercise is about fixing tests and fixing code.
 A refactoring is needed but a first step needs to be made
 in the tests.
 
-> **Challenge of day 21: Refactor the tests and production code to Output-based tests.**
+> **Challenge of day 21: Refactor the tests and production code to Output-Based tests.**
 
 Before refactoring the code, here are some explanations regarding the different kind of tests as explained by Vladimir
 Khorikov in his book [Unit Testing Principles, Practices and Patterns.](https://www.manning.com/books/unit-testing).

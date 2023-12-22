@@ -66,7 +66,7 @@ Here are the different challenges :
 - [Day 18: Automatically detect Linguistic Anti-Patterns (LAP).](exercise/day18/docs/challenge.md)
 - [Day 19: Loosing up dead weight.](exercise/day19/docs/challenge.md)
 - [Day 20: No more exceptions in our domain.](exercise/day20/docs/challenge.md)
-- [Day 21: Refactor the tests and production code to Output-based tests.](exercise/day21/docs/challenge.md)
+- [Day 21: Refactor the tests and production code to Output-Based tests.](exercise/day21/docs/challenge.md)
 
 ### Solutions
 A solution proposal will be published here every day during the `Advent Of Craft` containing `the code` and a `step by step` guide.
@@ -91,6 +91,7 @@ A solution proposal will be published here every day during the `Advent Of Craft
 - [Day 18: Automatically detect Linguistic Anti-Patterns (LAP).](solution/day18/docs/step-by-step.md)
 - [Day 19: Loosing up dead weight.](solution/day19/docs/step-by-step.md)
 - [Day 20: No more exceptions in our domain.](solution/day20/docs/step-by-step.md)
+- [Day 21: Refactor the tests and production code to Output-Based tests.](solution/day21/docs/step-by-step.md)
  
 ## Contributors
 
