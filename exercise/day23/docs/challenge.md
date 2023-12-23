@@ -20,3 +20,7 @@ Some rules:
 > **Challenge of day 23: Refactor the code after putting it under test.**
 
 - <u>💡HINT:</u> Work with the smallest scenario to test.
+
+![All in one kata](all-in-one.png)
+
+![snippet](snippet.png)
