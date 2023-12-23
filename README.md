@@ -93,6 +93,7 @@ A solution proposal will be published here every day during the `Advent Of Craft
 - [Day 19: Loosing up dead weight.](solution/day19/docs/step-by-step.md)
 - [Day 20: No more exceptions in our domain.](solution/day20/docs/step-by-step.md)
 - [Day 21: Refactor the tests and production code to Output-Based tests.](solution/day21/docs/step-by-step.md)
+- [Day 22: Design a diamond program using T.D.D and Property-Based Testing.](solution/day22/docs/step-by-step.md)
  
 ## Contributors
 
