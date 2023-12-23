@@ -36,3 +36,5 @@ Basically to use it, during this challenge you have to run the below command in 
 ```shell
 ./tcrw
 ```
+
+![Diamond kata](snippet.png)
