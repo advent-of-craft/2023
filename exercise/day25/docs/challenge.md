@@ -20,3 +20,5 @@ what your experience was like.
 > **Challenge of day 25: Share with the world what you have learned.**
 
 - <u>💡HINT:</u> Follow your intuition.
+
+![last day sharing](sharing.png)
