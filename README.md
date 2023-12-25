@@ -70,6 +70,7 @@ Here are the different challenges :
 - [Day 22: Design a diamond program using T.D.D and Property-Based Testing.](exercise/day22/docs/challenge.md)
 - [Day 23: Refactor the code after putting it under test.](exercise/day23/docs/challenge.md)
 - [Day 24: Write the most complicated code you can.](exercise/day24/docs/challenge.md)
+- [Day 25: Share with the world what you have learned.](exercise/day25/docs/challenge.md)
 
 ### Solutions
 A solution proposal will be published here every day during the `Advent Of Craft` containing `the code` and a `step by step` guide.

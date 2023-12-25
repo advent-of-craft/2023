@@ -33,6 +33,7 @@
 		<module>day22</module>
 		<module>day23</module>
 		<module>day24</module>
+		<module>day25</module>
     </modules>
 
     <properties>
