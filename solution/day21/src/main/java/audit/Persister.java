@@ -8,10 +8,11 @@ import java.util.ArrayList;
 
 public class Persister {
     public FileContent[] readDirectory(String directory) throws IOException {
-        return Files.walk(Paths.get(directory))
-                .filter(Files::isRegularFile)
-                .map(Persister::readFile)
-                .toArray(FileContent[]::new);
+        try (var paths = Files.walk(Paths.get(directory))) {
+            return paths.filter(Files::isRegularFile)
+                    .map(Persister::readFile)
+                    .toArray(FileContent[]::new);
+        }
     }
 
     public void applyUpdate(String directory, FileUpdate update) throws IOException {
