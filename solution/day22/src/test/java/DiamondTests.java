@@ -42,7 +42,7 @@ class DiamondTests {
                         .drop(1)
                         .dropRight(1)
                         .map(line -> line.replaceAll(" ", ""))
-                        .forAll(x -> x.length() == 2)
+                        .forAll(x -> x.length() == 2 && x.charAt(0) == x.charAt(1))
         );
     }
 
