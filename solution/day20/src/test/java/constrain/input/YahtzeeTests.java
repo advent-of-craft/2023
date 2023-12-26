@@ -1,5 +1,6 @@
 package constrain.input;
 
+import builders.DiceBuilder;
 import domain.yahtzee.constrain.input.Error;
 import domain.yahtzee.constrain.input.Roll;
 import domain.yahtzee.constrain.input.YahtzeeCalculator;
