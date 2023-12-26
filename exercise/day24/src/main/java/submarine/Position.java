@@ -1,4 +1,4 @@
-package M;
+package submarine;
 
 public record Position(int horizontal, int depth) {
     public Position changeDepth(int newDepth) {

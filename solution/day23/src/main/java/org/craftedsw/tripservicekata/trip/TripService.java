@@ -36,7 +36,7 @@ public class TripService {
                 : failure(new UserNotLoggedInException());
     }
 
-    protected Seq<Trip> findTripsByUser(User user) {
+    private Seq<Trip> findTripsByUser(User user) {
         return repository.findTripsByUser(user);
     }
 }

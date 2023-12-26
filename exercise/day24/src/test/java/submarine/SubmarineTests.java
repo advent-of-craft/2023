@@ -1,4 +1,4 @@
-package M;
+package submarine;
 
 import org.junit.jupiter.api.Test;
 

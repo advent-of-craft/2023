@@ -1,4 +1,4 @@
-package M;
+package submarine;
 
 import java.util.List;
 

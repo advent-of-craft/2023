@@ -1,4 +1,4 @@
-package M;
+package submarine;
 
 public record Instruction(String text, int x) {
     public static Instruction fromText(String text) {
