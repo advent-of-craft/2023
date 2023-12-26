@@ -46,30 +46,30 @@ To facilitate the communication around challenges you can join us on `Discord` b
 ## Challenges - 2023
 Here are the different challenges :
 
-- [Day 1: Make your production code easier to understand.](exercise/day01/docs/challenge.md)
-- [Day 2: One level of indentation.](exercise/day02/docs/challenge.md)
-- [Day 3: One dot per line.](exercise/day03/docs/challenge.md)
-- [Day 4: Identify the behavior under test and rewrite the tests.](exercise/day04/docs/challenge.md)
-- [Day 5: No "for" loop authorized.](exercise/day05/docs/challenge.md)
-- [Day 6: Parameterize your tests.](exercise/day06/docs/challenge.md)
-- [Day 7: Simplify the run method by extracting the right behavior.](exercise/day07/docs/challenge.md)
-- [Day 8: Using TDD rules, write a password validation program.](exercise/day08/docs/challenge.md)
-- [Day 9: Fix the code.](exercise/day09/docs/challenge.md)
-- [Day 10: Dot not use "if" statement.](exercise/day10/docs/challenge.md)
-- [Day 11: Gather a dependency freshness metric.](exercise/day11/docs/challenge.md)
-- [Day 12: Make your code open for extension.](exercise/day12/docs/challenge.md)
-- [Day 13: Find a way to eliminate the irrelevant, and amplify the essentials of those tests.](exercise/day13/docs/challenge.md)
-- [Day 14: Do not use exceptions anymore.](exercise/day14/docs/challenge.md)
-- [Day 15: Put a code under tests.](exercise/day15/docs/challenge.md)
-- [Day 16: Make this code immutable.](exercise/day16/docs/challenge.md)
-- [Day 17: Design one test that has the impact of thousands.](exercise/day17/docs/challenge.md)
-- [Day 18: Automatically detect Linguistic Anti-Patterns (LAP).](exercise/day18/docs/challenge.md)
-- [Day 19: Loosing up dead weight.](exercise/day19/docs/challenge.md)
-- [Day 20: No more exceptions in our domain.](exercise/day20/docs/challenge.md)
-- [Day 21: Refactor the tests and production code to Output-Based tests.](exercise/day21/docs/challenge.md)
-- [Day 22: Design a diamond program using T.D.D and Property-Based Testing.](exercise/day22/docs/challenge.md)
-- [Day 23: Refactor the code after putting it under test.](exercise/day23/docs/challenge.md)
-- [Day 24: Write the most complicated code you can.](exercise/day24/docs/challenge.md)
+- [Day 1: Make your production code easier to understand.](exercise/day01/docs/challenge.md) [![Refactoring](https://img.shields.io/badge/Refactoring-blue)](learning-paths/refactoring.md)
+- [Day 2: One level of indentation.](exercise/day02/docs/challenge.md) [![Refactoring](https://img.shields.io/badge/Refactoring-blue)](learning-paths/refactoring.md)
+- [Day 3: One dot per line.](exercise/day03/docs/challenge.md) [![Refactoring](https://img.shields.io/badge/Refactoring-blue)](learning-paths/refactoring.md)
+- [Day 4: Identify the behavior under test and rewrite the tests.](exercise/day04/docs/challenge.md) [![Clean Testing](https://img.shields.io/badge/Clean%20Testing-orange)](learning-paths/clean-testing.md)
+- [Day 5: No "for" loop authorized.](exercise/day05/docs/challenge.md) [![Functional Programming](https://img.shields.io/badge/Functional%20Programming-purple)](learning-paths/functional-programming.md)
+- [Day 6: Parameterize your tests.](exercise/day06/docs/challenge.md) [![Clean Testing](https://img.shields.io/badge/Clean%20Testing-orange)](learning-paths/clean-testing.md)
+- [Day 7: Simplify the run method by extracting the right behavior.](exercise/day07/docs/challenge.md) [![Refactoring](https://img.shields.io/badge/Refactoring-blue)](learning-paths/refactoring.md)
+- [Day 8: Using TDD rules, write a password validation program.](exercise/day08/docs/challenge.md) [![T.D.D](https://img.shields.io/badge/T.D.D-green)](learning-paths/tdd.md)
+- [Day 9: Fix the code.](exercise/day09/docs/challenge.md) [![Design](https://img.shields.io/badge/Design-yellow)](learning-paths/design.md)
+- [Day 10: Dot not use "if" statement.](exercise/day10/docs/challenge.md) [![Functional Programming](https://img.shields.io/badge/Functional%20Programming-purple)](learning-paths/functional-programming.md)
+- [Day 11: Gather a dependency freshness metric.](exercise/day11/docs/challenge.md) [![Design](https://img.shields.io/badge/Design-yellow)](learning-paths/design.md)
+- [Day 12: Make your code open for extension.](exercise/day12/docs/challenge.md) [![Design](https://img.shields.io/badge/Design-yellow)](learning-paths/design.md)
+- [Day 13: Find a way to eliminate the irrelevant, and amplify the essentials of those tests.](exercise/day13/docs/challenge.md) [![Clean Testing](https://img.shields.io/badge/Clean%20Testing-orange)](learning-paths/clean-testing.md)
+- [Day 14: Do not use exceptions anymore.](exercise/day14/docs/challenge.md) [![Functional Programming](https://img.shields.io/badge/Functional%20Programming-purple)](learning-paths/functional-programming.md)
+- [Day 15: Put a code under tests.](exercise/day15/docs/challenge.md) [![Clean Testing](https://img.shields.io/badge/Clean%20Testing-orange)](learning-paths/clean-testing.md)
+- [Day 16: Make this code immutable.](exercise/day16/docs/challenge.md) [![Functional Programming](https://img.shields.io/badge/Functional%20Programming-purple)](learning-paths/functional-programming.md)
+- [Day 17: Design one test that has the impact of thousands.](exercise/day17/docs/challenge.md) [![Clean Testing](https://img.shields.io/badge/Clean%20Testing-orange)](learning-paths/clean-testing.md)
+- [Day 18: Automatically detect Linguistic Anti-Patterns (LAP).](exercise/day18/docs/challenge.md) [![Design](https://img.shields.io/badge/Design-yellow)](learning-paths/design.md)
+- [Day 19: Loosing up dead weight.](exercise/day19/docs/challenge.md) [![Functional Programming](https://img.shields.io/badge/Functional%20Programming-purple)](learning-paths/functional-programming.md)
+- [Day 20: No more exceptions in our domain.](exercise/day20/docs/challenge.md) [![Design](https://img.shields.io/badge/Design-yellow)](learning-paths/design.md)
+- [Day 21: Refactor the tests and production code to Output-Based tests.](exercise/day21/docs/challenge.md) [![Clean Testing](https://img.shields.io/badge/Clean%20Testing-orange)](learning-paths/clean-testing.md)
+- [Day 22: Design a diamond program using T.D.D and Property-Based Testing.](exercise/day22/docs/challenge.md) [![T.D.D](https://img.shields.io/badge/T.D.D-green)](learning-paths/tdd.md)
+- [Day 23: Refactor the code after putting it under test.](exercise/day23/docs/challenge.md) [![Refactoring](https://img.shields.io/badge/Refactoring-blue)](learning-paths/refactoring.md) [![T.D.D](https://img.shields.io/badge/T.D.D-green)](learning-paths/tdd.md) [![Clean Testing](https://img.shields.io/badge/Clean%20Testing-orange)](learning-paths/clean-testing.md) [![Functional Programming](https://img.shields.io/badge/Functional%20Programming-purple)](learning-paths/functional-programming.md) 
+- [Day 24: Write the most complicated code you can.](exercise/day24/docs/challenge.md) [![Refactoring](https://img.shields.io/badge/Refactoring-blue)](learning-paths/refactoring.md)
 - [Day 25: Share with the world what you have learned.](exercise/day25/docs/challenge.md)
 
 ### Solutions
@@ -99,7 +99,15 @@ A solution proposal will be published here every day during the `Advent Of Craft
 - [Day 22: Design a diamond program using T.D.D and Property-Based Testing.](solution/day22/docs/step-by-step.md)
 - [Day 23: Refactor the code after putting it under test.](solution/day23/docs/step-by-step.md)
 - [Day 24: Write the most complicated code you can.](solution/day24/docs/step-by-step.md)
- 
+
+## Learning paths 🚀
+We have designed several `learning paths` based on the challenges that you can follow if you want to deep dive into a given concept:
+- [Refactoring 🚀](learning-paths/refactoring.md)
+- [Clean Testing 🧼](learning-paths/clean-testing.md)
+- [Test-Driven Development 🔴🔵🟢](learning-paths/tdd.md)
+- [Design 🏛](learning-paths/design.md)
+- [Functional Programming 🌋](learning-paths/functional-programming.md)
+
 ## Contributors
 
 <table>
