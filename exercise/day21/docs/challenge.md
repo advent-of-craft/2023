@@ -111,3 +111,6 @@ class CommunicationBasedTests {
 ![Communication-Based](img/communication-based.png)
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day21/docs/step-by-step.md)

@@ -17,3 +17,6 @@ May your crafting journey continue!
 - <u>💡HINT:</u> IDE + undo can help you.
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day05/docs/step-by-step.md)

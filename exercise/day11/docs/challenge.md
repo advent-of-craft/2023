@@ -19,3 +19,6 @@ May your crafting journey bring you to new places!
 - <u>💡HINT:</u> Read the ***year documentation.
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day11/docs/step-by-step.md)

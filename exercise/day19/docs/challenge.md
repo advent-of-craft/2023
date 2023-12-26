@@ -17,3 +17,8 @@ This time, the approach might be a bit different.
 May your crafting journey continue!
 
 - <u>💡HINT:</u> What object can you return to get the error state?
+
+![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day19/docs/step-by-step.md)

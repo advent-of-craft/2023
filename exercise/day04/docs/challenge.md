@@ -18,3 +18,6 @@ May your crafting journey be safe!
 - <u>💡HINT:</u> Think of what defines a behavior!
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day04/docs/step-by-step.md)

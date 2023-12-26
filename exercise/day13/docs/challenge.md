@@ -18,3 +18,6 @@ May your crafting journey continue!
 - <u>💡HINT:</u> Your tests always need the same type of objects.
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day13/docs/step-by-step.md)

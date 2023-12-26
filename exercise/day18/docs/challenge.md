@@ -20,3 +20,6 @@ May your crafting journey be sound!
 - <u>💡HINT:</u> Read the ArchUnit documentation for Java.
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day18/docs/step-by-step.md)

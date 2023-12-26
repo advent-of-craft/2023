@@ -20,3 +20,6 @@ May you be protected on your crafting journey!
 - <u>💡HINT:</u> How can I maximize my coverage.
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day15/docs/step-by-step.md)

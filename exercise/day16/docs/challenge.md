@@ -23,3 +23,6 @@ May you be protected on your crafting journey!
 - <u>💡HINT:</u> Code from usage for this one.
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day16/docs/step-by-step.md)

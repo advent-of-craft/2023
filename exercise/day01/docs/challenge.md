@@ -23,3 +23,6 @@ May the crafting journey begin!
 - <u>💡HINT:</u> Your IDE is your best friend in this journey!
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day01/docs/step-by-step.md)

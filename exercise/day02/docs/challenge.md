@@ -15,3 +15,6 @@ May your journey continue!
 - <u>💡HINT:</u> Apply what you learned on day 1
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day02/docs/step-by-step.md)

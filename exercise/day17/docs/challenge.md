@@ -21,3 +21,6 @@ May your crafting journey bring you to new heights!
 - <u>💡HINT:</u> What PBT stands for.
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day17/docs/step-by-step.md)

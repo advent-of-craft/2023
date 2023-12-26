@@ -18,3 +18,6 @@ May your crafting journey be safe!
 - <u>💡HINT:</u> Think of what kind of method it is. Command or Query?
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day09/docs/step-by-step.md)

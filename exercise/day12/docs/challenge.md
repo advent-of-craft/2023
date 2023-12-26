@@ -21,3 +21,6 @@ May your crafting journey be smooth!
 - <u>💡HINT:</u> Your previous tests can't fail if you are testing a new method.
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day12/docs/step-by-step.md)

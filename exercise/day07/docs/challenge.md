@@ -20,3 +20,6 @@ May your crafting journey bring new challenges!
 - <u>💡HINT:</u> Use all the techniques you've learned this week.
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day07/docs/step-by-step.md)

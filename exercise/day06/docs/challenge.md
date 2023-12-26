@@ -16,3 +16,6 @@ May your crafting journey continue!
 - <u>💡HINT:</u> Assess the inputs and assertions.
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day06/docs/step-by-step.md)

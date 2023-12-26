@@ -53,3 +53,6 @@ May your crafting journey bring you new lights!
 - <u>💡HINT2:</u> Start with the easiest behavior to write a test for (Baby Step).
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day08/docs/step-by-step.md)

@@ -20,3 +20,6 @@ May the crafting journey continue!
 - <u>💡HINT:</u> Be consistent with your formatting rules!
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day03/docs/step-by-step.md)

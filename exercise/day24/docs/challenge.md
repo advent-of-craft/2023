@@ -21,3 +21,6 @@ code the crappiest possible.
 
 ![Crappy Driven Development](cdd.png)
 ![Snippet](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day24/docs/step-by-step.md)

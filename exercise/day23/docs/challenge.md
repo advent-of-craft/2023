@@ -24,3 +24,6 @@ Some rules:
 ![All in one kata](all-in-one.png)
 
 ![snippet](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day23/docs/step-by-step.md)

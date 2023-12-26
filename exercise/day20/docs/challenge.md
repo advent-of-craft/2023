@@ -23,3 +23,6 @@ May your crafting journey be safe!
 To better understand the game rules we invite you to take a look them [here](https://www.ultraboardgames.com/yahtzee/game-rules.php).
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day20/docs/step-by-step.md)

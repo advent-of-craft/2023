@@ -18,3 +18,6 @@ May your crafting journey continue!
 - <u>💡HINT:</u> Think of the commonality in your conditions.
 
 ![snippet of the day](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day10/docs/step-by-step.md)

@@ -38,3 +38,6 @@ Basically to use it, during this challenge you have to run the below command in 
 ```
 
 ![Diamond kata](snippet.png)
+
+### Proposed Solution
+[![Proposed Solution Guide](../../../img/proposed-solution.png)](../../../solution/day22/docs/step-by-step.md)
