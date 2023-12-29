@@ -21,6 +21,6 @@
 - [Day 23: Refactor the code after putting it under test.](../exercise/day23/docs/challenge.md)
   - Refactor Legacy Code
   - Seams
-  - [Day 24: Write the most complicated code you can.](../exercise/day24/docs/challenge.md)
+- [Day 24: Write the most complicated code you can.](../exercise/day24/docs/challenge.md)
   - Crappy-Driven Development
   - Clean Code
