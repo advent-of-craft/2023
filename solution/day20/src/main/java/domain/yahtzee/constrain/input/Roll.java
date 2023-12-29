@@ -36,10 +36,10 @@ public class Roll {
     }
 
     private static boolean containsInvalidDie(int[] dice) {
-        return ofAll(dice).exists(Roll::isValidDie);
+        return ofAll(dice).exists(Roll::isInvalidDie);
     }
 
-    private static boolean isValidDie(int die) {
+    private static boolean isInvalidDie(int die) {
         return die < MINIMUM_DIE || die > MAXIMUM_DIE;
     }
 

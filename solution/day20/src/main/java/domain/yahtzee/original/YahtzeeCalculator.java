@@ -105,10 +105,10 @@ public class YahtzeeCalculator {
     }
 
     private static boolean containsInvalidDie(int[] dice) {
-        return ofAll(dice).exists(YahtzeeCalculator::isValidDie);
+        return ofAll(dice).exists(YahtzeeCalculator::isInvalidDie);
     }
 
-    private static boolean isValidDie(int die) {
+    private static boolean isInvalidDie(int die) {
         return die < MINIMUM_DIE || die > MAXIMUM_DIE;
     }
 
