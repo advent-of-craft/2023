@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 8 - Using TDD rules write a password validation program", "Day 8 - Using TDD rules write a password validation program", "{8EB0D086-66B2-41DA-9DD0-8B55585E6138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day08", "Day08\Day08\Day08.csproj", "{0262E2C7-135C-46F7-AEEC-E6FC4B13E7A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day08.Tests", "Day08\Day08.Tests\Day08.Tests.csproj", "{3372B6EF-31D1-4782-AD74-A04C6F2CE2A6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 22 - Design a diamond program using T.D.D and Property-Based Testing", "Day 22 - Design a diamond program using T.D.D and Property-Based Testing", "{470065A1-F961-4E64-8889-52849A9BE2FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day22", "Day22\Day22\Day22.csproj", "{A11D1D12-A267-4A94-B020-C86D88A8FD12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day22.Tests", "Day22\Day22.Tests\Day22.Tests.csproj", "{090A8693-38AF-4AE4-92CF-5987BB9508AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 23 - Refactor the code after putting it under test", "Day 23 - Refactor the code after putting it under test", "{E6945681-959A-4F52-B533-15E6130B6193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day23", "Day23\Day23\Day23.csproj", "{5FB3E705-A670-48F3-95BD-06309D9C145A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day23.Tests", "Day23\Day23.Tests\Day23.Tests.csproj", "{D461192A-11BF-40B6-8BA8-AED8B49C8C68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0262E2C7-135C-46F7-AEEC-E6FC4B13E7A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0262E2C7-135C-46F7-AEEC-E6FC4B13E7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0262E2C7-135C-46F7-AEEC-E6FC4B13E7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0262E2C7-135C-46F7-AEEC-E6FC4B13E7A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3372B6EF-31D1-4782-AD74-A04C6F2CE2A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3372B6EF-31D1-4782-AD74-A04C6F2CE2A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3372B6EF-31D1-4782-AD74-A04C6F2CE2A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3372B6EF-31D1-4782-AD74-A04C6F2CE2A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11D1D12-A267-4A94-B020-C86D88A8FD12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11D1D12-A267-4A94-B020-C86D88A8FD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11D1D12-A267-4A94-B020-C86D88A8FD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11D1D12-A267-4A94-B020-C86D88A8FD12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{090A8693-38AF-4AE4-92CF-5987BB9508AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090A8693-38AF-4AE4-92CF-5987BB9508AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090A8693-38AF-4AE4-92CF-5987BB9508AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090A8693-38AF-4AE4-92CF-5987BB9508AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB3E705-A670-48F3-95BD-06309D9C145A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB3E705-A670-48F3-95BD-06309D9C145A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB3E705-A670-48F3-95BD-06309D9C145A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB3E705-A670-48F3-95BD-06309D9C145A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D461192A-11BF-40B6-8BA8-AED8B49C8C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D461192A-11BF-40B6-8BA8-AED8B49C8C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D461192A-11BF-40B6-8BA8-AED8B49C8C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D461192A-11BF-40B6-8BA8-AED8B49C8C68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0262E2C7-135C-46F7-AEEC-E6FC4B13E7A8} = {8EB0D086-66B2-41DA-9DD0-8B55585E6138}
+		{3372B6EF-31D1-4782-AD74-A04C6F2CE2A6} = {8EB0D086-66B2-41DA-9DD0-8B55585E6138}
+		{A11D1D12-A267-4A94-B020-C86D88A8FD12} = {470065A1-F961-4E64-8889-52849A9BE2FA}
+		{090A8693-38AF-4AE4-92CF-5987BB9508AE} = {470065A1-F961-4E64-8889-52849A9BE2FA}
+		{5FB3E705-A670-48F3-95BD-06309D9C145A} = {E6945681-959A-4F52-B533-15E6130B6193}
+		{D461192A-11BF-40B6-8BA8-AED8B49C8C68} = {E6945681-959A-4F52-B533-15E6130B6193}
+	EndGlobalSection
+EndGlobal
