@@ -108,6 +108,12 @@ We have designed several `learning paths` based on the challenges that you can f
 - [Design 🏛](docs/learning-paths/design.md)
 - [Functional Programming 🌋](docs/learning-paths/functional-programming.md)
 
+## Available languages
+For now, the supported languages are:
+- `java` (v 21)
+- `kotlin` (1.9.21)
+- `C#` (.NET 8)
+
 ## Contributors
 
 <table>
