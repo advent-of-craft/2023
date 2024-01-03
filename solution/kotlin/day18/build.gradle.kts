@@ -12,6 +12,7 @@ repositories {
 dependencies {
     val kotestVersion = "5.8.0"
     testImplementation("io.kotest:kotest-runner-junit5:$kotestVersion")
+    implementation("com.tngtech.archunit:archunit:1.2.1")
     testImplementation(kotlin("test"))
 }
 
