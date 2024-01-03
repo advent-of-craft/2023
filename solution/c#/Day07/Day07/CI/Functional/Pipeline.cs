@@ -7,7 +7,7 @@ namespace Day07.CI.Functional
     {
         private const string Success = "success";
 
-        public void Run(Project project)
+        public Option<PipelineContext> Run(Project project)
             => ContextFor(project)
                 .Bind(RunTests)
                 .Bind(Deploy);
@@ -77,7 +77,7 @@ namespace Day07.CI.Functional
             emailer.Send(text);
         }
 
-        private sealed class PipelineContext(Project project)
+        public sealed class PipelineContext(Project project)
         {
             public bool MustRunDeployment() => TestsRanSuccessfully || !HasTests;
 

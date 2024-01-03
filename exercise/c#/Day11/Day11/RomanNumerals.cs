@@ -27,7 +27,7 @@ namespace Day11
 
         public static Option<string> ToRoman(this int number) => Convert(number);
 
-        public static Option<string> Convert(int number)
+        private static Option<string> Convert(int number)
             => IsInRange(number)
                 ? ConvertSafely(number)
                 : None;

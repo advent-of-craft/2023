@@ -14,7 +14,7 @@ namespace Day07.CI
                 return;
             }
 
-            if (DunDeploymentFailed(project))
+            if (RunDeploymentFailed(project))
             {
                 SendEmail("Deployment failed");
                 return;
@@ -41,7 +41,7 @@ namespace Day07.CI
             return false;
         }
 
-        private bool DunDeploymentFailed(Project project)
+        private bool RunDeploymentFailed(Project project)
         {
             if (project.Deploy() == Success)
             {

@@ -1,5 +1,6 @@
 using FluentAssertions;
 using Xunit;
+using static System.Int32;
 using static Day03.PetType;
 
 namespace Day03.Tests
@@ -28,6 +29,9 @@ namespace Day03.Tests
         }
 
         private static int YoungestPetAgeOfThePerson(Person person) =>
-            person.Pets.MinBy(p => p.Age)?.Age ?? int.MaxValue;
+            person
+                .Pets
+                .MinBy(p => p.Age)?
+                .Age ?? MaxValue;
     }
 }
