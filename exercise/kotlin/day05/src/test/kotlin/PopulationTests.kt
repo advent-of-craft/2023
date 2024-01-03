@@ -25,8 +25,29 @@ class PopulationTests : FunSpec({
         Person("Glenn", "Quagmire")
     )
 
+    fun formatPopulation(): String {
+        var response = ""
+
+        for (person in population) {
+            response += "${person.firstName} ${person.lastName}"
+
+            if (person.pets.isNotEmpty()) {
+                response += " who owns : "
+            }
+            for (pet in person.pets) {
+                response += "${pet.name} "
+            }
+            if (population.last() != person) {
+                response += lineSeparator()
+            }
+        }
+        return response
+    }
+
     test("people with their pets") {
-        formatPopulation(population) shouldBe """Peter Griffin who owns : Tabby 
+        val response = formatPopulation()
+
+        response shouldBe """Peter Griffin who owns : Tabby 
             |Stewie Griffin who owns : Dolly Brian 
             |Joe Swanson who owns : Spike 
             |Lois Griffin who owns : Serpy 
@@ -36,15 +57,3 @@ class PopulationTests : FunSpec({
             |Glenn Quagmire""".trimMargin()
     }
 })
-
-fun formatPopulation(population: List<Person>): String =
-    population.joinToString(lineSeparator()) { formatPerson(it) }
-
-fun Person.formatPets(): String {
-    return when {
-        pets.isNotEmpty() -> return pets.joinToString(" ", " who owns : ", " ") { it.name }
-        else -> ""
-    }
-}
-
-fun formatPerson(person: Person): String = "${person.firstName} ${person.lastName}" + person.formatPets()
