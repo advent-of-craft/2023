@@ -123,18 +123,12 @@ given concept:
 
 ## Available languages
 
-For now, the supported languages are:
+Here are the libraries we use in the different days per supported language:
 
-- `java` (v 21)
-- `kotlin` (1.9.21)
-- `C#` (.NET 8)
-
-Here are the libraries we use in the different days per language:
-
-| Topic                  | Java                                                             | C#                                                                                          | Kotlin                                                                                               |
+| Topic                  | java                                                             | C#                                                                                          | kotlin                                                                                               |
 |------------------------|------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | Test framework         | [junit](https://junit.org/junit5/)                               | [xUnit](https://xunit.net/)                                                                 | [Kotest](https://kotest.io/)                                                                         |
-| Fluent assertions      | [assertJ](https://joel-costigliola.github.io/assertj/)           | [FluentAssertions](https://fluentassertions.com/)                                           | Native `kotest` asertions                                                                            |
+| Fluent assertions      | [assertJ](https://joel-costigliola.github.io/assertj/)           | [FluentAssertions](https://fluentassertions.com/)                                           | Native `kotest` assertions                                                                           |
 | Mocking                | [mockito](https://site.mockito.org/)                             | [NSubstitute](https://nsubstitute.github.io/)                                               | [mockk](https://mockk.io/)                                                                           |
 | Approval testing       | [approvalTests](https://github.com/approvals/approvaltests.java) | [Verify.xUnit](https://github.com/VerifyTests/Verify)                                       | [approvalTests](https://github.com/approvals/approvaltests.java)                                     |
 | Property-Based testing | [vavr-test](https://github.com/vavr-io/vavr-test)                | [FSCheck](https://fscheck.github.io/FsCheck/)                                               | [kotest-property](https://kotest.io/docs/proptest/property-based-testing.html)                       |
