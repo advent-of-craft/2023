@@ -6,9 +6,6 @@ import arrow.core.Some
 
 const val MIN = 1
 const val MAX = 100
-private const val FIZZBUZZ = 15
-private const val FIZZ = 3
-private const val BUZZ = 5
 
 object FizzBuzz {
     fun convert(input: Int): Option<String> = when {
@@ -17,9 +14,9 @@ object FizzBuzz {
     }
 
     private fun convertSafely(input: Int): String = when {
-        `is`(FIZZBUZZ, input) -> "FizzBuzz"
-        `is`(FIZZ, input) -> "Fizz"
-        `is`(BUZZ, input) -> "Buzz"
+        `is`(15, input) -> "FizzBuzz"
+        `is`(3, input) -> "Fizz"
+        `is`(5, input) -> "Buzz"
         else -> input.toString()
     }
 

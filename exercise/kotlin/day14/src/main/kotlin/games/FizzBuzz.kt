@@ -2,9 +2,6 @@ package games
 
 private const val MIN = 0
 private const val MAX = 100
-private const val FIZZBUZZ = 15
-private const val FIZZ = 3
-private const val BUZZ = 5
 
 object FizzBuzz {
     fun convert(input: Int): String {
@@ -14,9 +11,9 @@ object FizzBuzz {
 
     private fun convertSafely(input: Int): String {
         return when {
-            `is`(FIZZBUZZ, input) -> "FizzBuzz"
-            `is`(FIZZ, input) -> "Fizz"
-            `is`(BUZZ, input) -> "Buzz"
+            `is`(15, input) -> "FizzBuzz"
+            `is`(3, input) -> "Fizz"
+            `is`(5, input) -> "Buzz"
             else -> input.toString()
         }
     }
