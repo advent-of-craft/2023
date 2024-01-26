@@ -80,36 +80,6 @@ Here are the different challenges :
 - [Day 24: Write the most complicated code you can.](docs/exercise/day24/challenge.md) [![Refactoring](https://img.shields.io/badge/Refactoring-blue)](docs/learning-paths/refactoring.md)
 - [Day 25: Share with the world what you have learned.](docs/exercise/day25/challenge.md)
 
-### Solutions
-
-A solution proposal will be published here every day during the `Advent Of Craft` containing `the code` and
-a `step by step` guide.
-
-- [Day 1: Make your production code easier to understand.](docs/exercise/day01/solution/step-by-step.md)
-- [Day 2: One level of indentation.](docs/exercise/day02/solution/step-by-step.md)
-- [Day 3: One dot per line.](docs/exercise/day03/solution/step-by-step.md)
-- [Day 4: Identify the behavior under test and rewrite the tests.](docs/exercise/day04/solution/step-by-step.md)
-- [Day 5: No "for" loop authorized.](docs/exercise/day05/solution/step-by-step.md)
-- [Day 6: Parameterize your tests.](docs/exercise/day06/solution/step-by-step.md)
-- [Day 7: Simplify the run method by extracting the right behavior.](docs/exercise/day07/solution/step-by-step.md)
-- [Day 8: Using TDD rules, write a password validation program.](docs/exercise/day08/solution/step-by-step.md)
-- [Day 9: Fix the code.](docs/exercise/day09/solution/step-by-step.md)
-- [Day 10: Dot not use "if" statement.](docs/exercise/day10/solution/step-by-step.md)
-- [Day 11: Gather a dependency freshness metric.](docs/exercise/day11/solution/step-by-step.md)
-- [Day 12: Make your code open for extension.](docs/exercise/day12/solution/step-by-step.md)
-- [Day 13: Find a way to eliminate the irrelevant, and amplify the essentials of those tests.](docs/exercise/day13/solution/step-by-step.md)
-- [Day 14: Do not use exceptions anymore.](docs/exercise/day14/solution/step-by-step.md)
-- [Day 15: Put a code under tests.](docs/exercise/day15/solution/step-by-step.md)
-- [Day 16: Make this code immutable.](docs/exercise/day16/solution/step-by-step.md)
-- [Day 17: Design one test that has the impact of thousands.](docs/exercise/day17/solution/step-by-step.md)
-- [Day 18: Automatically detect Linguistic Anti-Patterns (LAP).](docs/exercise/day18/solution/step-by-step.md)
-- [Day 19: Loosing up dead weight.](docs/exercise/day19/solution/step-by-step.md)
-- [Day 20: No more exceptions in our domain.](docs/exercise/day20/solution/step-by-step.md)
-- [Day 21: Refactor the tests and production code to Output-Based tests.](docs/exercise/day21/solution/step-by-step.md)
-- [Day 22: Design a diamond program using T.D.D and Property-Based Testing.](docs/exercise/day22/solution/step-by-step.md)
-- [Day 23: Refactor the code after putting it under test.](docs/exercise/day23/solution/step-by-step.md)
-- [Day 24: Write the most complicated code you can.](docs/exercise/day24/solution/step-by-step.md)
-
 ## Learning paths 🚀
 
 We have designed several `learning paths` based on the challenges that you can follow if you want to deep dive into a
@@ -125,17 +95,17 @@ given concept:
 
 Here are the libraries we use in the different days per supported language:
 
-| Topic                  | java                                                             | C#                                                                                          | kotlin                                                                                               |
-|------------------------|------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| Test framework         | [junit](https://junit.org/junit5/)                               | [xUnit](https://xunit.net/)                                                                 | [Kotest](https://kotest.io/)                                                                         |
-| Fluent assertions      | [assertJ](https://joel-costigliola.github.io/assertj/)           | [FluentAssertions](https://fluentassertions.com/)                                           | Native `kotest` assertions                                                                           |
-| Mocking                | [mockito](https://site.mockito.org/)                             | [NSubstitute](https://nsubstitute.github.io/)                                               | [mockk](https://mockk.io/)                                                                           |
-| Approval testing       | [approvalTests](https://github.com/approvals/approvaltests.java) | [Verify.xUnit](https://github.com/VerifyTests/Verify)                                       | [approvalTests](https://github.com/approvals/approvaltests.java)                                     |
-| Property-Based testing | [vavr-test](https://github.com/vavr-io/vavr-test)                | [FSCheck](https://fscheck.github.io/FsCheck/)                                               | [kotest-property](https://kotest.io/docs/proptest/property-based-testing.html)                       |
-| Fake data generator    | [instancio](https://www.instancio.org/)                          | [Bogus](https://github.com/bchavez/Bogus)                                                   | Not used                                                                                             |
-| Architecture tests     | [archunit](https://www.archunit.org/)                            | [TngTech.ArchUnitNET.xUnit](https://archunitnet.readthedocs.io/en/latest/)                  | [archunit](https://www.archunit.org/)                                                                |
-| Functional library     | [vavr](https://www.vavr.io/)                                     | [LanguageExt.Core](https://github.com/louthy/language-ext)                                  | [arrow-kt](https://arrow-kt.io/)                                                                     |
-| Functional assertions  | [assertj-vavr](https://github.com/assertj/assertj-vavr)          | [FluentAssertions.LanguageExt](https://www.nuget.org/packages/FluentAssertions.LanguageExt) | [kotest-extensions-arrow](https://github.com/kotest/kotest-extensions-arrow#kotest-extensions-arrow) |
+| Topic                  | java                                                             | kotlin                                                                                               |
+|------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| Test framework         | [junit](https://junit.org/junit5/)                               | [Kotest](https://kotest.io/)                                                                         |
+| Fluent assertions      | [assertJ](https://joel-costigliola.github.io/assertj/)           | Native `kotest` assertions                                                                           |
+| Mocking                | [mockito](https://site.mockito.org/)                             | [mockk](https://mockk.io/)                                                                           |
+| Approval testing       | [approvalTests](https://github.com/approvals/approvaltests.java) | [approvalTests](https://github.com/approvals/approvaltests.java)                                     |
+| Property-Based testing | [vavr-test](https://github.com/vavr-io/vavr-test)                | [kotest-property](https://kotest.io/docs/proptest/property-based-testing.html)                       |
+| Fake data generator    | [instancio](https://www.instancio.org/)                          | Not used                                                                                             |
+| Architecture tests     | [archunit](https://www.archunit.org/)                            | [archunit](https://www.archunit.org/)                                                                |
+| Functional library     | [vavr](https://www.vavr.io/)                                     | [arrow-kt](https://arrow-kt.io/)                                                                     |
+| Functional assertions  | [assertj-vavr](https://github.com/assertj/assertj-vavr)          | [kotest-extensions-arrow](https://github.com/kotest/kotest-extensions-arrow#kotest-extensions-arrow) |
 
 ## Contributors
 
