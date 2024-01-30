@@ -1,0 +1,20 @@
+{
+  "name": "day-11-roman",
+  "version": "1.0.0",
+  "description": "Day 11: Gather a dependency freshness metric.",
+  "dependencies": {
+    "typescript": "^5.3.3",
+    "fp-ts": "^2.16.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "@types/jest": "^29.5.11",
+    "fast-check": "^3.15.0",
+    "libyear": "^0.8.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "libyear": "libyear"
+  }
+}

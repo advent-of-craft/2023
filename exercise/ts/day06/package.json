@@ -1,0 +1,17 @@
+{
+  "name": "day-6-fizzbuzz",
+  "version": "1.0.0",
+  "description": "Day 6: Parameterize your tests.",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "@types/jest": "^29.5.8",
+    "@types/uuidv4": "^5.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "day-15-documents",
+  "version": "1.0.0",
+  "description": "Day 15: Put a code under tests.",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "@types/jest": "^29.5.8",
+    "approvals": "^6.2.4"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

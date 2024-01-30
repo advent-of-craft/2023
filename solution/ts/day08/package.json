@@ -1,0 +1,17 @@
+{
+  "name": "day-8-password-validation",
+  "version": "1.0.0",
+  "description": "Day 8: Using TDD rules, write a password validation program.",
+  "dependencies": {
+    "typescript": "^5.3.3",
+    "fp-ts": "^2.16.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "@types/jest": "^29.5.8"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

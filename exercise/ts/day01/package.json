@@ -1,0 +1,17 @@
+{
+  "name": "day-1-edible",
+  "description": "Day 1: Make your production code easier to understand.",
+  "version": "1.0.0",
+  "dependencies": {
+    "typescript": "^5.3.3",
+    "@types/uuidv4": "^5.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "@types/jest": "^29.5.8"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

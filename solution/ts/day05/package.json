@@ -1,0 +1,16 @@
+{
+  "name": "day-5-people",
+  "description": "Day 5: No for loop authorized.",
+  "version": "1.0.0",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "@types/jest": "^29.5.8"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

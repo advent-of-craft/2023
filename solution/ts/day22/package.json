@@ -1,0 +1,19 @@
+{
+  "name": "day-22-diamond",
+  "version": "1.0.0",
+  "description": "Day 22: Design a diamond program using T.D.D and Property-Based Testing.",
+  "dependencies": {
+    "typescript": "^5.3.3",
+    "fp-ts": "^2.16.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "@types/jest": "^29.5.8",
+    "fast-check": "^3.15.0",
+    "approvals": "^6.2.4"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
