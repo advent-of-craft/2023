@@ -1,3 +1,4 @@
+using FluentAssertions;
 using FluentAssertions.LanguageExt;
 using Xunit;
 
@@ -22,7 +23,10 @@ namespace Day14.Tests.LangExt
             => Day14.LangExt.FizzBuzz
                 .Convert(input)
                 .Should()
-                .BeSome(expectedResult);
+                .BeSome()
+                .Which
+                .Should()
+                .Be(expectedResult);
 
         [Theory]
         [InlineData(0)]
