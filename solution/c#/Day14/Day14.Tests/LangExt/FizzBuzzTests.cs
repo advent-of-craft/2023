@@ -1,4 +1,3 @@
-using FluentAssertions;
 using FluentAssertions.LanguageExt;
 using Xunit;
 
@@ -22,9 +21,6 @@ namespace Day14.Tests.LangExt
         public void Returns_Number_Representation(int input, string expectedResult)
             => Day14.LangExt.FizzBuzz
                 .Convert(input)
-                .Should()
-                .BeSome()
-                .Which
                 .Should()
                 .Be(expectedResult);
 
