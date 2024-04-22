@@ -117,7 +117,7 @@ given concept:
 
 - [Refactoring 🚀](docs/learning-paths/refactoring.md)
 - [Clean Testing 🧼](docs/learning-paths/clean-testing.md)
-- [Test-Driven Development 🔴🔵🟢](docs/learning-paths/tdd.md)
+- [Test-Driven Development 🔴🟢🔵](docs/learning-paths/tdd.md)
 - [Design 🏛](docs/learning-paths/design.md)
 - [Functional Programming 🌋](docs/learning-paths/functional-programming.md)
 
