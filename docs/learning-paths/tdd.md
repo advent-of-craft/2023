@@ -1,4 +1,4 @@
-## Test-Driven Development 🔴🔵🟢
+## Test-Driven Development 🔴🟢🔵
 ![TDD Learning path](../img/tdd.png)
 
 - [Day 8: Using TDD rules, write a password validation program.](../exercise/day08/challenge.md)
