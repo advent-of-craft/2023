@@ -21,7 +21,7 @@ The problem if we use an `Error` here is that we need to be able to express that
 
 The good news is that we can do it really easily by using existing mechanism: monadic container `Either<L, R>`. It is already defined in [`vavr`](https://docs.vavr.io/#_either).
 
-More explanations on this concept [here](https://xtrem-tdd.netlify.app/Flavours/monads).
+More explanations on this concept [here](https://xtrem-tdd.netlify.app/Flavours/Design/monads).
 
 🔴 We start by describing our new expectation from a test
 - We design a new method `addCommentWithoutException`

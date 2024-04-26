@@ -56,4 +56,4 @@ This kind of tool can really help teams take decisions regarding dependencies de
 
 ![Failure](img/failing-build.png)
 
-If you want to know more on "how to keep you dependencies up-to-date", you read this [article](https://xtrem-tdd.netlify.app/Flavours/keep-dependencies-up-to-date).
+If you want to know more on "how to keep you dependencies up-to-date", you read this [article](https://xtrem-tdd.netlify.app/Flavours/Practices/keep-dependencies-up-to-date).

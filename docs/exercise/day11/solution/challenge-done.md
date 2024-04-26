@@ -27,7 +27,7 @@ The concept of [`libyear`](https://libyear.com/) can help us to do so.
   - It makes dependencies management much, much easier
 
 If you want to know more on "how to keep you dependencies up-to-date", 
-you read this [article](https://xtrem-tdd.netlify.app/Flavours/keep-dependencies-up-to-date).
+you read this [article](https://xtrem-tdd.netlify.app/Flavours/Practices/keep-dependencies-up-to-date).
 
 >**Tip of the day: Code maintenance is not always about refactoring.**
 

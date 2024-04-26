@@ -15,7 +15,7 @@ Here are the business rules :
 - Any other characters are not authorized.
 ```
 
-We can do it using [`Example Mapping`](https://xtrem-tdd.netlify.app/Flavours/example-mapping) workshop.
+We can do it using [`Example Mapping`](https://xtrem-tdd.netlify.app/Flavours/Practices/example-mapping) workshop.
 
 ### Contains at least 8 characters
 
@@ -33,7 +33,7 @@ We design the method from our test.
 
 ![Our first failing test](img/first-failing-test.png)
 
-🟢 Then we [generate the code through our IDE](https://xtrem-tdd.netlify.app/Flavours/generate-code-from-usage)
+🟢 Then we [generate the code through our IDE](https://xtrem-tdd.netlify.app/Flavours/Design/generate-code-from-usage)
 
 After generation, it looks like this:
 

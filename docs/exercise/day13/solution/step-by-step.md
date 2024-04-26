@@ -1,6 +1,6 @@
 ## Day 13: Find a way to eliminate the irrelevant, and amplify the essentials of those tests.
 
-We can use [`Test Data Buidler`](https://xtrem-tdd.netlify.app/Flavours/test-data-builders) pattern to achieve this
+We can use [`Test Data Buidler`](https://xtrem-tdd.netlify.app/Flavours/Testing/test-data-builders) pattern to achieve this
 purpose.
 
 It will:
@@ -83,7 +83,7 @@ void setup() {
 }
 ```
 
-- We then [`generate code from usage`](https://xtrem-tdd.netlify.app/Flavours/generate-code-from-usage)
+- We then [`generate code from usage`](https://xtrem-tdd.netlify.app/Flavours/Design/generate-code-from-usage)
 
 ![Generate Code From Usage](img/generate-code-from-usage.png)
 

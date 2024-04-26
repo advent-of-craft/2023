@@ -37,7 +37,7 @@ public class Client {
 
 > "Asking a question should not change the answer" - Bertrand Meyer
 
-We will apply the [`Command Query Separation` principle](https://xtrem-tdd.netlify.app/Flavours/command-query-separation) to fix this problem.
+We will apply the [`Command Query Separation` principle](https://xtrem-tdd.netlify.app/Flavours/Design/command-query-separation) to fix this problem.
 
 
 |             | Returns  |           Side Effect           |

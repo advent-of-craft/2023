@@ -5,7 +5,7 @@
 In all tests, we are manipulating Articles with Comments. We want to 
 create them in a simpler and more maintainable way.
 
-We can use [`Test Data Buidler`](https://xtrem-tdd.netlify.app/Flavours/test-data-builders) pattern to achieve this
+We can use [`Test Data Buidler`](https://xtrem-tdd.netlify.app/Flavours/Testing/test-data-builders) pattern to achieve this
 purpose.
 
 It will:

@@ -7,7 +7,7 @@ This kind of issues in the code are [`Linguistic Anti Patterns`](https://www.ven
 > How could we simply detect these issues?
 
 ### Architecture Unit Tests
-Take a look at [this page](https://xtrem-tdd.netlify.app/Flavours/archunit) describing this concept.
+Take a look at [this page](https://xtrem-tdd.netlify.app/Flavours/Architecture/archunit) describing this concept.
 
 - We can use the library [`archunit`](https://www.archunit.org/) in java to describe and enforce architecture / design rules.
 

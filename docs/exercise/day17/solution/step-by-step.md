@@ -2,7 +2,7 @@
 
 `How could we design one test that has the impact of thousands?`
 
-We can use [`Property-Based Testing`](https://xtrem-tdd.netlify.app/flavours/pbt/). Here we choose to use the
+We can use [`Property-Based Testing`](https://xtrem-tdd.netlify.app/Flavours/Testing/pbt). Here we choose to use the
 library [`vavr-test`](https://github.com/vavr-io/vavr-test)(you may use alternatives like `junit quickcheck` for
 example).
 

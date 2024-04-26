@@ -9,7 +9,7 @@
     - It will update the `totalAmount` meaning that the second time we call the method the result will be wrong
 
 - The responsibilities are mixed in the methods
-- We will apply the [`Command Query Separation` principle](https://xtrem-tdd.netlify.app/Flavours/command-query-separation) to fix this problem.
+- We will apply the [`Command Query Separation` principle](https://xtrem-tdd.netlify.app/Flavours/Design/command-query-separation) to fix this problem.
 
 |             | Returns  |           Side Effect           |
 |-------------|:--------:|:-------------------------------:|
