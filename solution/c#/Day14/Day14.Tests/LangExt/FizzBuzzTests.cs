@@ -22,7 +22,7 @@ namespace Day14.Tests.LangExt
             => Day14.LangExt.FizzBuzz
                 .Convert(input)
                 .Should()
-                .BeSome(expectedResult);
+                .Be(expectedResult);
 
         [Theory]
         [InlineData(0)]
